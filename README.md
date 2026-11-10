@@ -19,6 +19,3 @@ I specialize in designing, building, and modernizing mission-critical enterprise
 * 💼 [LinkedIn](https://www.linkedin.com/in/flavioandre)
 * 🌐 [Personal Website](https://flavioandre.github.io/)
 * ✉️ [Email Me](mailto:flavioandre.fla@gmail.com)
-
-[![Blog Badge](https://img.shields.io/badge/GitHub-flavioandre.github.io-black)](https://flavioandre.github.io/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flavioandre)](https://www.linkedin.com/in/flavioandre/)
